@@ -85,19 +85,19 @@ export default function Home() {
 
           <div className="flex flex-wrap items-center justify-center gap-14">
             <div className="logo-box">
-              <img src="/logos/microsoft.svg" alt="Microsoft" className="logo logo-microsoft" />
+              <img src="/logos/Microsoft.svg" alt="Microsoft" className="logo logo-microsoft" />
             </div>
             <div className="logo-box">
-              <img src="/logos/oracle.svg" alt="Oracle" className="logo logo-oracle" />
+              <img src="/logos/Oracle.svg" alt="Oracle" className="logo logo-oracle" />
             </div>
             <div className="logo-box">
-              <img src="/logos/atlassian.svg" alt="Atlassian" className="logo logo-atlassian" />
+              <img src="/logos/Atlassian.svg" alt="Atlassian" className="logo logo-atlassian" />
             </div>
             <div className="logo-box">
-              <img src="/logos/cloudflare.svg" alt="Cloudflare" className="logo logo-cloudflare" />
+              <img src="/logos/Cloudflare.svg" alt="Cloudflare" className="logo logo-cloudflare" />
             </div>
             <div className="logo-box">
-              <img src="/logos/vmware.svg" alt="VMware" className="logo logo-vmware" />
+              <img src="/logos/VMware.svg" alt="VMware" className="logo logo-vmware" />
             </div>
           </div>
         </div>
